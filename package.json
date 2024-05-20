@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodeman": "^1.1.2"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "app2.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodeman app2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
